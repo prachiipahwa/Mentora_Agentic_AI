@@ -6,7 +6,14 @@
 
 By coordinating four distinct agents, Mentora ensures you not only have a teacher but also a manager, a strategist, and an analyst dedicated to your success.
 
+## 🎥 Working Demo
 
+<div align="center">
+  <a href="https://youtu.be/NiHpreSuUxI" target="_blank">
+    <img src="https://github.com/prachiipahwa/Mentora_Agentic_AI/blob/main/frontend/public/demo-thumbnail.jpeg" alt="Watch the Mentora Demo" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+  </a>
+  <p><i>Click the image above to watch the full walkthrough</i></p>
+</div>
 ## 🎯 The Motive
 
 Modern students face a three-front war: **Information Overload**, **Poor Strategy**, and **Time Mismanagement**. Mentora solves this by fusing four powerful AI agents into a single cohesive platform:
